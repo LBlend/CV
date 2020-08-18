@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Recursive:wght@400;700&display=swap');
+
+:root {
+    --main-padding-sides: 5%;
+    --main-padding-non-sides: 2%;
+    --main-margin: 3%;
+    --box-shadow: 0 2mm 3mm 2mm rgba(0, 0, 0, 0.2);
+}
+body {
+    background-color: seashell;
+    font-family: "Recursive", sans-serif;
+}
+main {
+    background-image: url("../assets/paper.jpg");
+    background-position: center;
+    background-size: cover;
+    margin: var(--main-margin);
+    padding-top: var(--main-padding-non-sides);
+    padding-bottom: var(--main-padding-non-sides);
+    padding-left: var(--main-padding-sides);
+    padding-right: var(--main-padding-sides);
+    box-shadow: var(--box-shadow)
+}
+p {
+    font-size: 1.25rem;
+}
+h1 {
+    font-size: 4rem;
+}
+h2 {
+    font-size: 2rem;
+    margin-top: 3%;
+    border-bottom: 1mm solid black;
+}
+a:link, a:visited {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: gray;
+    text-decoration: underline;
+}
+#language-link {
+    margin-left: var(--main-margin);
+}
+section, footer {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+#with-photo {
+    grid-template-columns: 1fr 1fr 1fr;
+}
+#name {
+    grid-column: 1 / span 3;
+}
+#portrait {
+    grid-column: 3;
+    grid-row: 1 / 5;
+    width: 70%;
+}
+.full-item {
+    grid-column: 1 / span 3;
+}
+.left-item {
+    grid-column: 1 / span 1;
+}
+.middle-item {
+    grid-column: 2 / span 1;
+}
+.left-column {
+    margin-right: 15mm;
+}
+.middle-column {
+    margin-right: 5mm;
+}
+
+@media only screen and (max-width: 768px) {
+    :root {
+        --main-margin: 0;
+    }
+}
