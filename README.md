@@ -4,6 +4,6 @@
 
 To-Do:
 - [x] Create base layout
-- [ ] Finish the write-up
+- [ ] Finish the english translation
 - [ ] Make it responsive
 - [ ] Make it print-friendly
