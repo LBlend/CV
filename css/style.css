@@ -46,6 +46,7 @@ a:hover {
 section, footer {
     display: grid;
     grid-template-columns: 1fr 2fr;
+    gap: 15mm;
 }
 #with-photo {
     grid-template-columns: 1fr 1fr 1fr;
@@ -66,12 +67,6 @@ section, footer {
 }
 .middle-item {
     grid-column: 2 / span 1;
-}
-.left-column {
-    margin-right: 15mm;
-}
-.middle-column {
-    margin-right: 5mm;
 }
 
 @media only screen and (max-width: 768px) {
