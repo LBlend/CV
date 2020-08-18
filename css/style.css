@@ -46,7 +46,7 @@ a:hover {
 section, footer {
     display: grid;
     grid-template-columns: 1fr 2fr;
-    gap: 15mm;
+    column-gap: 15mm;
 }
 #with-photo {
     grid-template-columns: 1fr 1fr 1fr;
