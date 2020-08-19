@@ -6,10 +6,13 @@ Inspirert av @mathiasose sin [CV](https://github.com/mathiasose/mathiasose.githu
 
 ## To-Do:
 - [x] Lage grunnmalen
-- [ ] Fylle inn tekst på alle punktene
 - [ ] Oversette til engelsk
 - [X] Gjøre CV'en mobilvennlig (Gjort, sånn halvveis :P)
 - [X] Gjøre CV'en utskriftsvennlig
+
+## Fremtidig (Lang fremtid):
+- [ ] Fritid/Hobby
+- [ ] Ferdigheter i henholdt til IT
 
 
 ## Viktig angående utskrift:
