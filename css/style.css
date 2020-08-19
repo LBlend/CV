@@ -9,6 +9,7 @@
 body {
     background-color: seashell;
     font-family: "Recursive", sans-serif;
+    max-width: 2000px;
 }
 main {
     background-image: url("../assets/paper.jpg");
@@ -22,13 +23,13 @@ main {
     box-shadow: var(--box-shadow)
 }
 p {
-    font-size: 1.25rem;
+    font-size: 16pt;
 }
 h1 {
-    font-size: 4rem;
+    font-size: 42pt;
 }
 h2 {
-    font-size: 2rem;
+    font-size: 26pt;
     margin-top: 3%;
     border-bottom: 1mm solid black;
 }
@@ -56,8 +57,9 @@ section, footer {
 }
 #portrait {
     grid-column: 3;
-    grid-row: 1 / 5;
-    width: 70%;
+    grid-row: 2 / 6;
+    width: 100%;
+    max-width: 80mm;
 }
 .full-item {
     grid-column: 1 / span 3;
@@ -72,5 +74,57 @@ section, footer {
 @media only screen and (max-width: 768px) {
     :root {
         --main-margin: 0;
+        --box-shadow: none;
+    }
+    h1 {
+        text-align: center;
+    }
+    section, footer, #with-photo {
+        grid-template-columns: 1fr 1fr;
+        column-gap: 7mm;
+    }
+    #with-photo {
+        row-gap: 5mm;
+    }
+    #name {
+        grid-column: 1 / span 2;
+        margin: auto;
+    }
+    #portrait {
+        grid-column: 1 / span 2;
+        grid-row: 2 / span 1;
+        max-height: 80mm;
+        margin: auto;
+    }
+    .full-item {
+        grid-column: 1 / span 2;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    h1 {
+        font-size: 26pt;
+    }
+    h2 {
+        font-size: 16pt;
+    }
+    p {
+        font-size: 10pt;
+    }
+}
+
+@media print {
+    :root {
+        --main-margin: 0;
+    }
+    #language-link {
+        display: none;
+    }
+    #portrait {
+        width: 55mm;
+        margin: auto;
+    }
+    header, section, footer {
+        page-break-inside: avoid;
     }
 }
