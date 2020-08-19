@@ -1,10 +1,16 @@
 # CV
 
-[CV URL](https://leanderfurumo.github.io/CV/)
+[Lenke til CV](https://leanderfurumo.github.io/CV/)
 
-To-Do:
-- [x] Create base layout
-- [ ] Finish the english translation
-- [ ] Finish write-up
-- [X] Make it responsive (sorta)
-- [X] Make it print-friendly
+Inspirert av @mathiasose sin [CV](https://github.com/mathiasose/mathiasose.github.io)
+
+## To-Do:
+- [x] Lag grunnmalen
+- [ ] Fylle inn tekst på alle punktene
+- [ ] Oversett til engelsk
+- [X] Gjøre CV'en mobilvennlig (Gjort, sånn halvveis :P)
+- [X] Gjøre CV'en utskriftsvennlig
+
+
+## Viktig angående utskrift:
+Chrome og Firefox ser ikke ut til å klare å skrive ut CV'en i riktig format. Dette kan være på grunn av begrenset fontstøtte. Derfor anbefaler jeg å bruke [denne tjenesten](https://webpagetopdf.com/) til å få en PDF-fil i stedet.
