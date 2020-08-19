@@ -61,6 +61,9 @@ section, footer {
     width: 100%;
     max-width: 80mm;
 }
+.footer-link {
+    text-align: right;
+}
 .full-item {
     grid-column: 1 / span 3;
 }
@@ -116,6 +119,7 @@ section, footer {
 @media print {
     :root {
         --main-margin: 0;
+        --box-shadow: none;
     }
     #language-link {
         display: none;
