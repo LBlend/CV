@@ -5,9 +5,9 @@
 Inspirert av @mathiasose sin [CV](https://github.com/mathiasose/mathiasose.github.io)
 
 ## To-Do:
-- [x] Lag grunnmalen
+- [x] Lage grunnmalen
 - [ ] Fylle inn tekst på alle punktene
-- [ ] Oversett til engelsk
+- [ ] Oversette til engelsk
 - [X] Gjøre CV'en mobilvennlig (Gjort, sånn halvveis :P)
 - [X] Gjøre CV'en utskriftsvennlig
 
