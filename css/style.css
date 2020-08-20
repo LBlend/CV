@@ -20,7 +20,7 @@ main {
     padding-right: var(--main-padding-sides);
     box-shadow: var(--box-shadow)
 }
-p {
+p, ul {
     font-size: 16pt;
 }
 h1 {
@@ -109,7 +109,7 @@ section, footer {
     h2 {
         font-size: 16pt;
     }
-    p {
+    p, ul {
         font-size: 10pt;
     }
 }
