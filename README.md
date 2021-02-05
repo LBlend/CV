@@ -16,4 +16,4 @@ Inspirert av @mathiasose sin [CV](https://github.com/mathiasose/mathiasose.githu
 
 
 ## Viktig angående utskrift:
-Chrome og Firefox ser ikke ut til å klare å skrive ut CV'en i riktig format. Dette kan være på grunn av begrenset fontstøtte. Derfor anbefaler jeg å bruke [denne tjenesten](https://webpagetopdf.com/) til å få en PDF-fil i stedet.
+Chrome og Firefox ser ikke ut til å klare å skrive ut CV'en i riktig format. Dette kan være på grunn av begrenset fontstøtte. Derfor anbefaler jeg å bruke [denne tjenesten](https://webpagetopdf.com/) for å få en PDF-fil i stedet.
