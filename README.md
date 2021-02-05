@@ -9,6 +9,8 @@ Inspirert av @mathiasose sin [CV](https://github.com/mathiasose/mathiasose.githu
 - [ ] Oversette til engelsk
 - [X] Gjøre CV'en mobilvennlig (Gjort, sånn halvveis :P)
 - [X] Gjøre CV'en utskriftsvennlig
+- [ ] Oppdatere CV'en
+- [ ] Anonymisere personlig info
 
 ## To-Do (Lang fremtid):
 - [ ] Fritid/Hobby
