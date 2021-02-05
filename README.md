@@ -6,7 +6,7 @@ Inspirert av @mathiasose sin [CV](https://github.com/mathiasose/mathiasose.githu
 
 ## To-Do:
 - [x] Lage grunnmalen
-- [ ] Oversette til engelsk
+- [ ] Oversette til engelsk. Både nettside og readme
 - [X] Gjøre CV'en mobilvennlig (Gjort, sånn halvveis :P)
 - [X] Gjøre CV'en utskriftsvennlig
 - [ ] Oppdatere CV'en
