@@ -1,6 +1,6 @@
 # CV
 
-[Lenke til CV](https://leanderfurumo.github.io/CV/)
+[Lenke til CV](https://lblend.github.io/CV/)
 
 Inspirert av @mathiasose sin [CV](https://github.com/mathiasose/mathiasose.github.io)
 
