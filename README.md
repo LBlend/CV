@@ -9,13 +9,14 @@ Inspirert av @mathiasose sin [CV](https://github.com/mathiasose/mathiasose.githu
 - [ ] Oversette til engelsk. Både nettside og readme
 - [X] Gjøre CV'en mobilvennlig (Gjort, sånn halvveis :P)
 - [X] Gjøre CV'en utskriftsvennlig
-- [ ] Oppdatere CV'en
+- [ ] Oppdatere CV'en med nyeste info
 - [ ] Anonymisere personlig info
 
 ## To-Do (Lang fremtid)
 - [ ] Lage et design som ikke er stygt og dårlig 🙃
 - [ ] Legge til Fritid/Hobby
 - [ ] Ferdigheter i henhold til IT
+- [ ] Legge til frivillig arbeid
 
 
 ## Viktig angående utskrift
