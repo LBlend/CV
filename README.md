@@ -10,7 +10,7 @@ Inspirert av @mathiasose sin [CV](https://github.com/mathiasose/mathiasose.githu
 - [X] Gjøre CV'en mobilvennlig (Gjort, sånn halvveis :P)
 - [X] Gjøre CV'en utskriftsvennlig
 
-## Fremtidig (Lang fremtid):
+## To-Do (Lang fremtid):
 - [ ] Fritid/Hobby
 - [ ] Ferdigheter i henhold til IT
 
