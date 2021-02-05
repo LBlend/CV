@@ -13,7 +13,8 @@ Inspirert av @mathiasose sin [CV](https://github.com/mathiasose/mathiasose.githu
 - [ ] Anonymisere personlig info
 
 ## To-Do (Lang fremtid):
-- [ ] Fritid/Hobby
+- [ ] Lage et design som ikke er stygt og dårlig 🙃
+- [ ] Legge til Fritid/Hobby
 - [ ] Ferdigheter i henhold til IT
 
 
