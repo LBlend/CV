@@ -12,7 +12,7 @@ Inspirert av @mathiasose sin [CV](https://github.com/mathiasose/mathiasose.githu
 
 ## Fremtidig (Lang fremtid):
 - [ ] Fritid/Hobby
-- [ ] Ferdigheter i henholdt til IT
+- [ ] Ferdigheter i henhold til IT
 
 
 ## Viktig angående utskrift:
